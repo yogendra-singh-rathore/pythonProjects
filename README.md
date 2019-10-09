@@ -1,2 +1,2 @@
 # pythonProjects
-Python Projects 
+* Python Projects 
